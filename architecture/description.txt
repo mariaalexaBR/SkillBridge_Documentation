@@ -1,0 +1,1 @@
+Especificaciones técnicas, base de datos, endpoints API.
